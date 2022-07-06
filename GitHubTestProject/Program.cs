@@ -7,3 +7,9 @@ internal class Program
         Console.WriteLine("Was is los");
     }
 }
+
+
+public class myNewClass
+{
+    public string Name { get; set; }
+}
